@@ -1,1 +1,1 @@
-Projetos de HTML da playlist do Gama Academy
+Vendo o básico do HTML na jornada do Hiring Coders
